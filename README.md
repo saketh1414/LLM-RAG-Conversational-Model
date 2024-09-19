@@ -6,7 +6,7 @@
 5)so enter your main topic in first query itself.  
 6)to end the conversation and to start a new conversation enter-"exit"  
 
-for more instructions go through instructions.txt    
-for detailed explanation and flowchart go through steps_and_info.pdf  
+for detailed instructions go through "instructions.txt"    
+for detailed flowchart go through "steps_and_info.pdf"  
 for walkthrough of the project click the video link below...   
 https://drive.google.com/file/d/1HaB3FfvXlirHE_mVA2ezLWfB-CDYkH1T/view?usp=sharing
